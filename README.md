@@ -1,1 +1,1 @@
-# AlgoCasts
+# Practice Algorithms 
